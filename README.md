@@ -18,6 +18,7 @@ abstract.md           draft SER abstract
 codemeta.json         machine-readable metadata (CodeMeta 3.0)
 CITATION.cff          citation metadata
 zenodo-metadata.md    values for the Zenodo deposit
+scripts/prepare_deposit.sh  assembles the upload files in deposit/ (git-ignored)
 ```
 
 ## What the poster says, in brief
