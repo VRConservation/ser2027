@@ -14,6 +14,8 @@ A poster for the 12th SER World Conference on Ecological Restoration (Lisbon, 30
 ```
 poster/poster.pdf     A0 portrait (841 x 1189 mm), fonts embedded, images at 300 dpi
 poster/poster.png     preview, 100 dpi
+poster/AnguloLopez_2026_SER2027_poster_v0.1_150dpi.png   high-resolution PNG, 4967 x 7022 px (print, zoom)
+poster/AnguloLopez_2026_SER2027_poster_v0.1_web.png      web PNG, 2000 x 2828 px (sharing)
 scripts/poster.py     draws the poster; every figure on it is computed from the data
 img/plate-*.jpg       the three plates, 3200 x 4000 px, no caption band
 abstract.md           draft SER abstract
