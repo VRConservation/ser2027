@@ -26,7 +26,7 @@ zenodo-metadata.md    values for the Zenodo deposit
 
 (iii) **Pond turtles:** 96 pools held water all year in 2021, and 48 lie on better-connected rivers. Thirteen of those 48 are inside the Côa rock-art core. Only one is within 2 km of a rabbit area, so the prey-buffer hypothesis (H6) can be tested at one site now.
 
-(iv) **The river:** the Côa is free-flowing because the 1995 campaign "As gravuras não sabem nadar" (the engravings can't swim) stopped the dam that would have drowned its rock art. The cofferdam built for that dam is still there.
+(iv) **The river:** the Côa is free-flowing because the 1995 campaign "As gravuras não sabem nadar" (the engravings can't swim) stopped the dam that would have drowned its rock art.
 
 These are screening maps, not release sites. Every candidate needs a field survey first.
 

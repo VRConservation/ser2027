@@ -391,7 +391,7 @@ events = [("1995", "Students take up \"As gravuras não sabem nadar\""),
           ("1996", "Côa dam suspended (17 Jan); park opens"),
           ("1998", "Côa rock art inscribed by UNESCO"), ("2001", "Alto Douro Wine Region inscribed"),
           ("2010", "Extension to Siega Verde, Spain"), ("2016", "Baixo Sabor dam in service"),
-          ("2017", "Côa cofferdam on the obsolete-barrier list"), ("2026", "This screen")]
+          ("2026", "This screen")]
 row = SMALL * 1.65
 timeline = R.axes(row * len(events) + 10)
 timeline.set_xlim(0, 1)
@@ -403,9 +403,6 @@ for i, (yr, text) in enumerate(events):
     timeline.text(0.05, i, yr, fontproperties=BOLD, fontsize=SMALL, color=NAVY, va="center")
     timeline.text(0.2, i, text, fontproperties=BODY, fontsize=SMALL, color=NAVY, va="center")
 R.gap(16)
-R.para("What is not finished: the 32 m cofferdam built for the Côa dam was never removed. Rain still backs water up "
-       "about 10 km, and it has submerged 119 rock-art panels for more than 500 days in total since 1996. Its "
-       "demolition has been on the national list of obsolete barriers since 2017.")
 
 
 # ---- Footer -----------------------------------------------------------------
@@ -428,7 +425,7 @@ sources = (
     "contributors (ODbL).  ICNF hunting zones.  DGPC classified heritage boundaries.  GBIF.org occurrences, "
     "generalised to 5 km.  Reis, M. (2012-2014). Inventário dos sítios da arte rupestre do Vale do Côa, Portvgalia "
     "33-35.  UNESCO World Heritage Centre, sites 866 and 1046.  Resolução do Conselho de Ministros n.º 14/1996.  "
-    "Público (31 July 2023) and CNN Portugal (23 July 2026) on the Côa cofferdam.  Map: EPSG:3763; the screen is "
+    "Map: EPSG:3763; the screen is "
     "computed in scripts/poster.py from the v6 bundle.  Code written with AI assistance (Claude, Anthropic) from the "
     "author's method and direction, and reviewed by the author.")
 F.para(sources, size=14.5, colour=NAVY, spacing=1.35)
