@@ -19,8 +19,6 @@ img/plate-*.jpg       the three plates, 3200 x 4000 px, no caption band
 abstract.md           draft SER abstract
 codemeta.json         machine-readable metadata (CodeMeta 3.0)
 CITATION.cff          citation metadata
-zenodo-metadata.md    values for the Zenodo deposit
-scripts/prepare_deposit.sh  assembles the upload files in deposit/ (git-ignored)
 ```
 
 ## What the poster says, in brief

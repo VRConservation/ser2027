@@ -11,7 +11,7 @@ Submission window: 3 December 2026 to 29 January 2027 (ser2027.org). The word li
 
 **Format**: Poster. **Series**: Lands in Motion.
 
-**Author**: Linda Angulo Lopez, Côa Connectivity Lab. ORCID 0009-0009-5689-7148.
+**Author**: Linda Angulo Lopez, Rewilding Portugal. ORCID 0009-0009-5689-7148.
 
 ## Abstract
 
