@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
-  "identifier": "https://github.com/coa-connectivity-lab/ser2027",
+  "identifier": "https://doi.org/10.5281/zenodo.23638438",
   "name": "SER 2027 poster: rabbits, wildcats, pond turtles and a free-flowing river",
   "description": "Code, figures and text for an A0 poster for the 12th SER World Conference on Ecological Restoration (Lisbon, 2027, Lands in Motion). One map combines a rabbit release screen inside the wildcat's land corridors, a pond turtle pool screen, the two UNESCO World Heritage areas and Natura 2000 sites of the Greater Côa Valley, Portugal, and the Portugal-Spain border. Every figure on the poster is computed from the Côa Valley Eco-Connectivity v6 data bundle. These are screening maps, not release sites.",
   "version": "0.1",
@@ -83,6 +83,7 @@
     }
   ],
   "relatedLink": [
+    "https://zenodo.org/records/23638438",
     "https://www.data.gouv.fr/datasets/coa-valley-eco-connectivity-v6",
     "https://github.com/coa-connectivity-lab/eco-connectivity-workflow",
     "https://github.com/coa-connectivity-lab/Solo-field-illustrator-project-for-Rewilding-Portugal",

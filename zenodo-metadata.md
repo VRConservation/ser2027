@@ -5,6 +5,8 @@
 
 ---
 
+**Published** on 25 October 2026 as v0.1: <https://doi.org/10.5281/zenodo.23638438>. The record names Rewilding Portugal as the affiliation, has no related works yet and lists CC BY 4.0 only. Add the related works and the CC BY-NC 4.0 entry for the plates with "Edit" on the record; metadata edits do not need a new version.
+
 You upload and publish this yourself at <https://zenodo.org/uploads/new>. The files are ready in `deposit/`, which `.gitignore` keeps out of the repository. Rebuild it with `scripts/prepare_deposit.sh`.
 
 ## Before you publish

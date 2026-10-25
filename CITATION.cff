@@ -9,6 +9,8 @@ authors:
     orcid: "https://orcid.org/0009-0009-5689-7148"
 date-released: 2026-10-25
 version: "0.1"
+doi: 10.5281/zenodo.23638438
+url: "https://doi.org/10.5281/zenodo.23638438"
 repository-code: "https://github.com/coa-connectivity-lab/ser2027"
 license:
   - CC-BY-4.0

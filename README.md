@@ -1,5 +1,7 @@
 # SER 2027 poster: rabbits, wildcats, pond turtles and a free-flowing river
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23638438.svg)](https://doi.org/10.5281/zenodo.23638438)
+
 A poster for the 12th SER World Conference on Ecological Restoration (Lisbon, 30 August to 3 September 2027), thematic series "Lands in Motion". It brings three things onto one A0 page:
 - the rabbit release screen (prey for the wildcat) and the pond turtle pool screen, on one map with the two UNESCO World Heritage areas of the Greater Côa Valley, Portugal
 - three plates drawn after the valley's Iron Age fine-line engravings
@@ -59,6 +61,12 @@ The plates come from `research/rewilding-dynamics/scripts/digital_plates.py --pr
 - Workflow: <https://github.com/coa-connectivity-lab/eco-connectivity-workflow>
 
 The full source list is in the poster footer.
+
+## Cite
+
+Angulo Lopez, L. (2026). *Rabbits, wildcats, pond turtles and a free-flowing river: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal* (Version v0.1) [Poster]. 12th SER World Conference on Ecological Restoration, Lisbon. Zenodo. <https://doi.org/10.5281/zenodo.23638438>
+
+The Zenodo record holds the A0 PDF, a preview and a snapshot of this repository at the deposited commit.
 
 ## Licence
 
