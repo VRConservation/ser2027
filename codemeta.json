@@ -1,0 +1,91 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "https://github.com/coa-connectivity-lab/ser2027",
+  "name": "SER 2027 poster: rabbits, wildcats, pond turtles and a free-flowing river",
+  "description": "Code, figures and text for an A0 poster for the 12th SER World Conference on Ecological Restoration (Lisbon, 2027, Lands in Motion). One map combines a rabbit release screen inside the wildcat's land corridors, a pond turtle pool screen, the two UNESCO World Heritage areas and Natura 2000 sites of the Greater Côa Valley, Portugal, and the Portugal-Spain border. Every figure on the poster is computed from the Côa Valley Eco-Connectivity v6 data bundle. These are screening maps, not release sites.",
+  "version": "0.1",
+  "dateCreated": "2026-10-25",
+  "dateModified": "2026-10-25",
+  "codeRepository": "https://github.com/coa-connectivity-lab/ser2027",
+  "issueTracker": "https://github.com/coa-connectivity-lab/ser2027/issues",
+  "readme": "https://github.com/coa-connectivity-lab/ser2027/blob/main/README.md",
+  "license": [
+    "https://spdx.org/licenses/MIT",
+    "https://spdx.org/licenses/CC-BY-4.0",
+    "https://spdx.org/licenses/CC-BY-NC-4.0"
+  ],
+  "developmentStatus": "https://www.repostatus.org/#active",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python",
+    "version": "3.11"
+  },
+  "runtimePlatform": "Python 3.11",
+  "operatingSystem": "Linux",
+  "softwareRequirements": [
+    "geopandas>=1.1",
+    "rioxarray>=0.19",
+    "rasterio>=1.4",
+    "numpy>=2.1",
+    "scipy>=1.16",
+    "shapely>=2.1",
+    "matplotlib>=3.10",
+    "Pillow>=12.0",
+    "GDAL (gdalwarp, for the first remote raster fetch)",
+    "https://github.com/coa-connectivity-lab/Solo-field-illustrator-project-for-Rewilding-Portugal (research/rewilding-dynamics/scripts/release_candidates.py)"
+  ],
+  "applicationCategory": "Ecology",
+  "keywords": [
+    "rewilding",
+    "ecological restoration",
+    "ecological connectivity",
+    "circuit theory",
+    "European rabbit",
+    "European wildcat",
+    "pond turtle",
+    "free-flowing rivers",
+    "Natura 2000",
+    "transboundary conservation",
+    "World Heritage",
+    "Côa Valley",
+    "Portugal",
+    "SER 2027",
+    "poster"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0009-5689-7148",
+      "givenName": "Linda",
+      "familyName": "Angulo Lopez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Côa Connectivity Lab"
+      }
+    }
+  ],
+  "copyrightHolder": {
+    "@type": "Person",
+    "@id": "https://orcid.org/0009-0009-5689-7148"
+  },
+  "copyrightYear": 2026,
+  "referencePublication": [
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22997241",
+      "name": "Rabbits, wildcats, pond turtles and a river that stayed: a synthesis and research agenda for trophic and hydrological rewilding in the Greater Côa Valley, Portugal"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.22979020",
+      "name": "Movement, Water, Connection: a reproducible Python connectivity workflow and field illustration for the Greater Côa Valley rewilding landscape, Portugal"
+    }
+  ],
+  "relatedLink": [
+    "https://www.data.gouv.fr/datasets/coa-valley-eco-connectivity-v6",
+    "https://github.com/coa-connectivity-lab/eco-connectivity-workflow",
+    "https://github.com/coa-connectivity-lab/Solo-field-illustrator-project-for-Rewilding-Portugal",
+    "https://ser2027.org/call-for-proposals/"
+  ]
+}

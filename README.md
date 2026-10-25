@@ -15,6 +15,8 @@ poster/poster.png     preview, 100 dpi
 scripts/poster.py     draws the poster; every figure on it is computed from the data
 img/plate-*.jpg       the three plates, 3200 x 4000 px, no caption band
 abstract.md           draft SER abstract
+codemeta.json         machine-readable metadata (CodeMeta 3.0)
+CITATION.cff          citation metadata
 zenodo-metadata.md    values for the Zenodo deposit
 ```
 
