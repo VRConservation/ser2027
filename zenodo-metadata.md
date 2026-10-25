@@ -28,7 +28,7 @@ You upload this yourself at <https://zenodo.org/uploads/new>.
 | Field | Value |
 |---|---|
 | Resource type | Poster |
-| Title | Rabbits, wildcats, pond turtles and a river that stayed: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal |
+| Title | Rabbits, wildcats, pond turtles and a free-flowing river: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal |
 | Creator | Angulo Lopez, Linda. Affiliation: Côa Connectivity Lab. ORCID: 0009-0009-5689-7148 |
 | Description | The abstract in `abstract.md` |
 | Licence | CC BY 4.0 (text and map). Add to the description: "Plates CC BY-NC 4.0; code MIT, github.com/coa-connectivity-lab/ser2027" |

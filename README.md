@@ -1,4 +1,4 @@
-# SER 2027 poster: rabbits, wildcats, pond turtles and a river that stayed
+# SER 2027 poster: rabbits, wildcats, pond turtles and a free-flowing river
 
 A poster for the 12th SER World Conference on Ecological Restoration (Lisbon, 30 August to 3 September 2027), thematic series "Lands in Motion". It brings three things onto one A0 page:
 - the rabbit release screen (prey for the wildcat) and the pond turtle pool screen, on one map with the two UNESCO World Heritage areas of the Greater Côa Valley, Portugal
@@ -27,6 +27,8 @@ zenodo-metadata.md    values for the Zenodo deposit
 (iii) **Pond turtles:** 96 pools held water all year in 2021, and 48 lie on better-connected rivers. Thirteen of those 48 are inside the Côa rock-art core. Only one is within 2 km of a rabbit area, so the prey-buffer hypothesis (H6) can be tested at one site now.
 
 (iv) **The river:** the Côa is free-flowing because the 1995 campaign "As gravuras não sabem nadar" (the engravings can't swim) stopped the dam that would have drowned its rock art.
+
+(v) **Across the border:** 26% of the study area (2,694 km²) lies in Spain, along 166 km of border. Natura 2000 covers 32% of the study area, in sites that face each other across the border. Examples are Douro Internacional e Vale do Águeda and Arribes del Duero, Vale do Côa and Campo de Azaba, and Malcata and El Rebollar. The v6 connectivity model stops at the border, with no current on 96% of the Spanish side. The next step is a transfrontier study.
 
 These are screening maps, not release sites. Every candidate needs a field survey first.
 

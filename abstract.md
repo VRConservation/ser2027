@@ -7,7 +7,7 @@
 
 Submission window: 3 December 2026 to 29 January 2027 (ser2027.org). The word limit is not published yet; this draft is 264 words. Check it against the call when it opens.
 
-**Title**: Rabbits, wildcats, pond turtles and a river that stayed: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal
+**Title**: Rabbits, wildcats, pond turtles and a free-flowing river: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal
 
 **Format**: Poster. **Series**: Lands in Motion.
 
