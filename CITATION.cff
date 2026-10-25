@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this poster or its code, please cite it as below."
+type: dataset
+title: "Rabbits, wildcats, pond turtles and a river that stayed: one open connectivity screen for trophic and hydrological rewilding in the Greater Côa Valley, Portugal (SER 2027 poster)"
+authors:
+  - family-names: Angulo Lopez
+    given-names: Linda
+    affiliation: Côa Connectivity Lab
+    orcid: "https://orcid.org/0009-0009-5689-7148"
+date-released: 2026-10-25
+version: "0.1"
+repository-code: "https://github.com/coa-connectivity-lab/ser2027"
+license:
+  - CC-BY-4.0
+  - CC-BY-NC-4.0
+  - MIT
+keywords:
+  - rewilding
+  - European rabbit
+  - European wildcat
+  - pond turtle
+  - ecological connectivity
+  - free-flowing rivers
+  - World Heritage
+  - Côa Valley
+references:
+  - type: article
+    title: "Rabbits, wildcats, pond turtles and a river that stayed: a synthesis and research agenda for trophic and hydrological rewilding in the Greater Côa Valley, Portugal"
+    authors:
+      - family-names: Angulo Lopez
+        given-names: Linda
+    doi: 10.5281/zenodo.22997241
+    year: 2026
+  - type: article
+    title: "Movement, Water, Connection: a reproducible Python connectivity workflow and field illustration for the Greater Côa Valley rewilding landscape, Portugal"
+    authors:
+      - family-names: Angulo Lopez
+        given-names: Linda
+    doi: 10.5281/zenodo.22979020
+    year: 2026
